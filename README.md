@@ -9,7 +9,8 @@ How do interests differ across urban, suburban, and rural users?
 
 ## Data 📊
 ### Source: Kaggle
-### Variables: Demographics (urban, suburban, rural), Interests (lifestyle, travel, sports), and user engagement (likes, comments, reposts).
+### Variables: 
+Demographics (urban, suburban, rural), Interests (lifestyle, travel, sports), and user engagement (likes, comments, reposts).
 ### Data Preparation:
 Cleaning duplicate entries.
 Creating new features such as total engagement per user.
@@ -31,13 +32,18 @@ Multi-group histograms show engagement by demographic type across different cont
 Confusion matrix heatmap visualizes predictions from the Random Forest model, highlighting which content categories correlate with each demographic.
 
 ## Ethical Considerations 🔒
-### Informed Consent: Clear communication on how user data is handled.
-### Data Privacy: Anonymized data, compliant with privacy regulations.
-### Bias Mitigation: Balanced dataset to avoid skewed predictions.
+### Informed Consent: 
+Clear communication on how user data is handled.
+### Data Privacy: 
+Anonymized data, compliant with privacy regulations.
+### Bias Mitigation: 
+Balanced dataset to avoid skewed predictions.
 
 ## Challenges 🚧
-### Dataset Limitations: Only a few interest categories and focus on multiple countries, not just the U.S.
-### Dynamic Nature of Social Media: Trends shift rapidly, making continuous updates necessary.
+### Dataset Limitations: 
+Only a few interest categories and focus on multiple countries, not just the U.S.
+### Dynamic Nature of Social Media: 
+Trends shift rapidly, making continuous updates necessary.
 
 ## Future Work 🚀
 ### Expand Dataset: Include more diverse interest categories and focus specifically on Instagram.
