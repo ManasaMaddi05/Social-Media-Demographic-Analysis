@@ -46,6 +46,9 @@ Only a few interest categories and focus on multiple countries, not just the U.S
 Trends shift rapidly, making continuous updates necessary.
 
 ## Future Work 🚀
-### Expand Dataset: Include more diverse interest categories and focus specifically on Instagram.
-### Improve Modeling: Explore advanced machine learning models.
-### Real-Time Analysis: Integrate real-time data for trend detection.
+### Expand Dataset: 
+Include more diverse interest categories and focus specifically on Instagram.
+### Improve Modeling: 
+Explore advanced machine learning models.
+### Real-Time Analysis: 
+Integrate real-time data for trend detection.
